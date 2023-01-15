@@ -1,7 +1,7 @@
 ### E aiiii ‼
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando para me tornar FullStack
+- 🔭 Hoje sou FullStack apaixonado em Laravel + Vue
+- 🌱 Estudando para me tornar cada vez melhor
 - 📫 Fale comigo no email: dominguesandredev@gmail.com
 - 😄 Pronome: Ele/Dele
 - 🐶 Amo cachorrinhos 
