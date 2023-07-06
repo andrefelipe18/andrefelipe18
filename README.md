@@ -17,7 +17,7 @@
 
 <br>
 
-- 🔭 Hoje sou FullStack apaixonado em Laravel + Vue
+- 🔭 Desenvolvedor FullStack
 - 🌱 Estudando para me tornar cada vez melhor
 - 📫 Fale comigo no email: dominguesandredev@gmail.com
 - 😄 Pronome: Ele/Dele
