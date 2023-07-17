@@ -143,16 +143,6 @@
 <br>
 <br>
 
-<div align='center'>
-
-## <b>Me tornando melhor a cada dia que passa</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
 ---
 
 <br>
