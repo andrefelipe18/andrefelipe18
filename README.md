@@ -10,7 +10,7 @@
 <br>
 
 - 🔭 FullStack Developer - <em>Laravel enthusiast</em>
-- 👨🏽‍💻 Creator of [VFull](https://github.com/andrefelipe18/VFull) & [VFull Auth](https://github.com/andrefelipe18/VFullAuth)
+- 👨🏽‍💻 Creator of [VFull](https://github.com/andrefelipe18/VFull)
 - 🌱 Studying to become better and better
 - 😄 He / His
 - 🐶 Love Dogs
