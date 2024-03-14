@@ -9,7 +9,7 @@
 
 <br>
 
-- 🔭 FullStack Developer - <em>Laravel enthusiast</em>
+- 🔭 FullStack Developer - <em>Laravel & Vue enthusiast</em>
 - 👨🏽‍💻 Creator of [VFull](https://github.com/andrefelipe18/VFull)
 - 🌱 Studying to become better and better
 - 😄 He / His
