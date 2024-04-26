@@ -27,3 +27,9 @@ In 2022, I found myself in the Laravel and Vue stack and since then I've been an
 - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9dominguess/)
 - [Instagram](https://www.instagram.com/andre.dominguess/)
 - [E-mail](mailto:dominguesstroppa@gmail.com)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,vue,nuxt,javascript,php,typescript,docker,git,tailwind,vitest,ubuntu,pinia,nodejs,adonis" />
+  </a>
+</p>
