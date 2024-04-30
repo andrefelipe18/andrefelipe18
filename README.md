@@ -20,7 +20,7 @@ In 2022, I found myself in the Laravel and Vue stack and since then I've been an
 
 📈 A few projects
 - [VFull](https://github.com/andrefelipe18/VFull)
-- [Tailhub](tailhub.vercel.app)
+- [Tailhub](https://tailhub.vercel.app)
 - [Yui](https://github.com/andrefelipe18/Yui)
  
 🤝 You can find me
