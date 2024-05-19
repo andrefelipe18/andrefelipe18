@@ -16,7 +16,7 @@ In 2022, I found myself in the Laravel and Vue stack and since then I've been an
 📚 My hobbies:
 - Playing video games (I really like Hades)
 - Listening to music (I'm a big fan of Froid)
-- Studying (I'm a big fan of learning)
+- Studying
 
 📈 A few projects
 - [VFull](https://github.com/andrefelipe18/VFull)
