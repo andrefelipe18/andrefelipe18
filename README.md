@@ -14,14 +14,13 @@ In 2022, I found myself in the Laravel and Vue stack and since then I've been an
 - Linux (Ubuntu)
 
 📚 My hobbies:
-- Playing video games (I really like Hades)
-- Listening to music (I'm a big fan of Froid)
+- Playing video games
+- Listening to music
 - Studying
 
 📈 A few projects
 - [VFull](https://github.com/andrefelipe18/VFull)
 - [Tailhub](https://tailhub.vercel.app)
-- [Yui Ecosystem](https://github.com/yuiphp)
  
 🤝 You can find me
 - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9dominguess/)
