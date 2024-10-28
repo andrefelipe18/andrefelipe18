@@ -2,7 +2,7 @@
 
 I like coding, I worked as a designer in the past and computers have always been my passion.
 
-In 2022, I found myself in the Laravel and Vue stack and since then I've been an active and committed member of this community, constantly seeking to contribute and learn.
+In 2021, I found myself in the Laravel and Vue stack and since then I've been an active and committed member of this community, constantly seeking to contribute and learn.
 
 🧑🏼‍💻 My stack:
 - PHP (Laravel, Livewire, Filament)
