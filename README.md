@@ -10,13 +10,6 @@ In 2021, I found myself in the Laravel and Vue stack and since then I've been an
 - Tailwind CSS
 - MySQL & PostgreSQL
 - Docker
-- Git
-- Linux (Ubuntu)
-
-📚 My hobbies:
-- Playing video games
-- Listening to music
-- Studying
 
 📈 A few projects
 - [VFull](https://github.com/andrefelipe18/VFull)
