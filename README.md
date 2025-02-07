@@ -15,6 +15,7 @@ In 2021, I found myself in the Laravel and Vue stack and since then I've been an
 - [VFull](https://github.com/andrefelipe18/VFull)
 - [Tailhub](https://tailhub.vercel.app)
 - [Filament Partials](https://github.com/andrefelipe18/filament-partials)
+- [AbacatePay PHP SDK](https://github.com/andrefelipe18/abacatepay-sdk)
  
 🤝 You can find me
 - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9dominguess/)
