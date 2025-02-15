@@ -10,6 +10,7 @@ In 2021, I found myself in the Laravel and Vue stack and since then I've been an
 - Tailwind CSS
 - MySQL & PostgreSQL
 - Docker
+- Ionic, Electron & NativePHP
 
 📈 A few projects
 - [VFull](https://github.com/andrefelipe18/VFull)
