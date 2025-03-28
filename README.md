@@ -13,10 +13,11 @@ In 2021, I found myself in the Laravel and Vue stack and since then I've been an
 - Ionic, Electron & NativePHP
 
 📈 A few projects
-- [VFull](https://github.com/andrefelipe18/VFull)
-- [Tailhub](https://tailhub.vercel.app)
+- [TallStackUI Filament](https://github.com/andrefelipe18/tallstackui-filament)
 - [Filament Partials](https://github.com/andrefelipe18/filament-partials)
 - [AbacatePay PHP SDK](https://github.com/andrefelipe18/abacatepay-sdk)
+- [VFull](https://github.com/andrefelipe18/VFull)
+- [Tailhub](https://tailhub.vercel.app)
  
 🤝 You can find me
 - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9dominguess/)
