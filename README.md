@@ -12,7 +12,6 @@
 - [TallStackUI Filament](https://github.com/andrefelipe18/tallstackui-filament)
 - [Filament Partials](https://github.com/andrefelipe18/filament-partials)
 - [VFull](https://github.com/andrefelipe18/VFull)
-- [Tailhub](https://tailhub.vercel.app)
  
 🤝 You can find me
 - [LinkedIn](https://www.linkedin.com/in/andr%C3%A9dominguess/)
